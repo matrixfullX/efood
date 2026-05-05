@@ -13,7 +13,7 @@
     "@reduxjs/toolkit": "^2.11.2",
     "@types/styled-components": "^5.1.36",
     "components": "^0.1.0",
-    "eslint": "^10.3.0",
+    "eslint": "^9.0.0",
     "formik": "^2.4.9",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
